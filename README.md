@@ -6,7 +6,7 @@
 
 </div>
 
-### Este projeto é a criação de uma Página de Login ficticia para uma academia.
+### Este projeto é a criação de uma Página de Login ficticia.
 
 ### Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros.
 
