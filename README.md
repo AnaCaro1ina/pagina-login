@@ -14,5 +14,5 @@
 
 
 <p> 
-    <img width="900" height="500" src="img/gif6" >
+    <img width="1000" height="500" src="/img/gif6.gif">
 </p>
